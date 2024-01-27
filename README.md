@@ -13,7 +13,7 @@ Documentation for `js-tiktoken` can be found in [here](https://github.com/dqbd/t
 The WASM version of `tiktoken` can be installed from NPM:
 
 ```
-npm install tiktoken
+npm install tiktoken-mystist
 ```
 
 ## Usage

@@ -6,7 +6,7 @@ OpenAI's models. This is a pure JS port of the original tiktoken library.
 Install the library from NPM:
 
 ```
-npm install js-tiktoken
+npm install js-tiktoken-mystist
 ```
 
 ## Usage
